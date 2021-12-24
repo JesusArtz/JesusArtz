@@ -2,7 +2,7 @@
 ```python
 # Jesus Artz / Student
 
-class HobieProgrammer:
+class SoftwareEngineer:
     def __init__(self):
         self.Name = "Jesus Artz"
         self.Skills = ["Python", "A little bit of C++"]
@@ -12,7 +12,7 @@ class HobieProgrammer:
     def sayHi(self):
         print(f"Hi, i am {self.Name}, Thank you for viewing my profile, I hope you like my work.")
         
-Me = HobieProgrammer()
+Me = SoftwareEngineer()
 
 Me.sayHi()
 ```
