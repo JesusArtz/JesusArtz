@@ -28,3 +28,4 @@
   
 <a href="https://mexicodev.org/" target="_blank"><img src="https://github.com/JesusArtz/JesusArtz/blob/main/mexicodev.png?raw=true" width="19%" height="19%"></a>
  
+![Snake animation](https://github.com/EmmanuelRdezG2/JesusArtz/blob/output/github-contribution-grid-snake.svg)
