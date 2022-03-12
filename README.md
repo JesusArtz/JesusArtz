@@ -1,18 +1,21 @@
+## I'm Jesus, full stack developer with django framework <3
 
-```py
-# Jesus Artz / Student
-
-class SoftwareEngineer:
-    def __init__(self):
-        self.Name = "Jesus Artz"
-        self.Skills = ["Python", "A little bit of C++"]
-        self.Role = "High school student"
-        self.Lenguaje = "es_MX"
-        
-    def sayHi(self):
-        print(f"Hi, i am {self.Name}, Thank you for viewing my profile, I hope you like my work.")
-        
-Me = SoftwareEngineer()
-
-Me.sayHi()
-```
+<div align="center" style="display: inline_block">
+  <a href="https://github.com/JesusArtz">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=JesusArtz&show_icons=true&theme=radical"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusArtz&layout=compact&langs_count=7&theme=radical&amp;exclude_repo=workshop"/>
+</div>
+    
+## Skills
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Emma-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Emma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Emma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Emma-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Emma-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+</div>
+    
+![](https://c.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)
+    
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=d97924851af2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
