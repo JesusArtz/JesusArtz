@@ -8,6 +8,9 @@
     
 ## Skills
     
+
+
+<div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Jesus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jesus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,9 +18,8 @@
   <img align="center" alt="Jesus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jesus-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
 </div>
-
-<div align="center">
-
+  
+  
 ![](https://c.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)
     
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=d97924851af2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
