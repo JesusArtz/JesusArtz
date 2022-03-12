@@ -26,7 +26,6 @@
 <br>
 ![Snake animation](https://github.com/EmmanuelRdezG2/JesusArtz/blob/output/github-contribution-grid-snake.svg)
     
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=d97924851af2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
   
 <a href="https://mexicodev.org/" target="_blank"><img src="https://github.com/JesusArtz/JesusArtz/blob/main/mexicodev.png?raw=true" width="19%" height="19%"></a>
  
