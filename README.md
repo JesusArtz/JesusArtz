@@ -1,4 +1,4 @@
-## I'm Jesus, full stack developer with django framework <3
+## I'm Jesus, Web full stack developer <3
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/JesusArtz">
