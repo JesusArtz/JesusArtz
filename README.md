@@ -1,4 +1,4 @@
-## I'm Jesus, full stack developer with django framework <3
+## I'm Jesus, Web full stack developer <3
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/JesusArtz">
@@ -13,7 +13,11 @@
   <img align="center" alt="Jesus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jesus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jesus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
   <img align="center" alt="Jesus-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+
+  <img align="center" alt="Jesus-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+
 </div>
 
 <div align="center">
