@@ -18,16 +18,16 @@
 <div align="center">
 
 ### 💡 Languages
-<img src="https://skillicons.dev/icons?i=js,python" />
+<img src="https://skillicons.dev/icons?i=js,python,cs,ts,java" />
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=react,vue" />
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,dotnet" />
 
 ### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,gitlab,linux" />
 
 </div>
 
