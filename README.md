@@ -1,32 +1,66 @@
-## I'm Jesus, Web full stack developer <3
+# 👋 Hi, I'm Jesus
 
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/JesusArtz">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=JesusArtz&show_icons=true&theme=radical"/>
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusArtz&layout=compact&langs_count=7&theme=radical&amp;exclude_repo=workshop"/>
+💻 Full Stack Developer  
+🚀 Passionate about building scalable systems and useful tech  
+⚽ Referee in training
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JesusArtz&theme=blueberry-duo" alt="GitHub Streak" /></a>
 </div>
-    
-## Skills
-    
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Jesus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jesus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jesus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jesus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jesus-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
-</div>
+---
+
+## 🧠 Tech Stack
 
 <div align="center">
 
-  <br>
-  <br>
-  
-  
-![](https://c.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)
-<br>
-![Snake animation](https://github.com/EmmanuelRdezG2/JesusArtz/blob/output/github-contribution-grid-snake.svg)
-    
-  
-<a href="https://mexicodev.org/" target="_blank"><img src="https://github.com/JesusArtz/JesusArtz/blob/main/mexicodev.png?raw=true" width="19%" height="19%"></a>
- 
+### 💡 Languages
+<img src="https://skillicons.dev/icons?i=js,python" />
 
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=django" />
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **HackOnLinces Platform**  
+> Full management system for events (participants, judges, mentors)  
+
+
+---
+
+## 🧩 Currently Working On
+
+- 📌 Backend architecture improvements (.NET)
+- 📌 API security (rate limiting, auth, scaling)
+- 📌 Dev communities: MexicoDev x OnLinces 🐱
+
+---
+
+## 🌐 Connect with me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/JesusArtz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome)](#)
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+I mix code, football discipline, and systems thinking to build solutions that actually work in the real world.
