@@ -54,8 +54,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/JesusArtz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jesusartz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome)](https://yisuuus.dev/)
 
 </div>
 
@@ -64,3 +64,9 @@
 ## ⚡ Fun Fact
 
 I mix code, football discipline, and systems thinking to build solutions that actually work in the real world.
+
+---
+
+<div align="center">
+<a href="https://mexicodev.org/" target="_blank"><img src="https://github.com/JesusArtz/JesusArtz/blob/main/mexicodev.png?raw=true" width="19%" height="19%"></a>
+</div>
