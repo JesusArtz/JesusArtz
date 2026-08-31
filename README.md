@@ -46,7 +46,7 @@
 
 - 📌 Backend architecture improvements (.NET)
 - 📌 API security (rate limiting, auth, scaling)
-- 📌 Dev communities: MexicoDev x OnLinces 🐱
+- 📌 Dev communities: MexicoDev 🐱
 
 ---
 
