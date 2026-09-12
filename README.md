@@ -39,6 +39,8 @@
 🔹 **HackOnLinces Platform**  
 > Full management system for events (participants, judges, mentors)  
 
+🔹 **LeagueUP**  
+> Full management system for sport leagues.  
 
 ---
 
