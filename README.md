@@ -8,7 +8,7 @@
       <img src="assets/portrait.png" width="300" alt="ASCII-style portrait of Jesus in his referee jacket" />
     </td>
     <td width="65%" valign="middle">
-      <img src="assets/profile.svg" width="620" alt="Jesus / JesusArtz. Full Stack Developer and referee in training. JavaScript, TypeScript, Python, C# and Java. React, Vue, .NET, Django, Flask and FastAPI. Focused on backend architecture, API security and MexicoDev." />
+      <img src="assets/profile.svg" width="620" alt="Jesus / JesusArtz. Full Stack Developer and referee in training. JavaScript, TypeScript, Python, C# and Java. React, Vue, .NET, Django, Flask and FastAPI. Focused on backend architecture, API security and MexicoDev. GitHub stats: authored commits and lines added/deleted in public and private history." />
     </td>
   </tr>
 </table>

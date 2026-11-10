@@ -1,0 +1,51 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_stats.py
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+    steps:
+      - name: Check private statistics access
+        id: access
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo '::notice::Set PROFILE_STATS_TOKEN to refresh private statistics. Keeping the existing totals.'
+            echo 'ready=false' >> "$GITHUB_OUTPUT"
+          else
+            echo 'ready=true' >> "$GITHUB_OUTPUT"
+          fi
+      - uses: actions/checkout@v4
+        if: steps.access.outputs.ready == 'true'
+      - name: Fetch and render GitHub statistics
+        if: steps.access.outputs.ready == 'true'
+        run: python3 scripts/update_stats.py
+      - name: Commit refreshed statistics
+        if: steps.access.outputs.ready == 'true'
+        run: |
+          git add assets/profile.svg assets/stats.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh profile stats'
+          git push
