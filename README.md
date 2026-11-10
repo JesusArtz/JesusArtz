@@ -21,7 +21,7 @@
 
 ### `~/projects`
 
-**LeagueUP** → A management system for sports leagues.<br />
+**LeagueUp** → A management system for sports leagues.<br />
 **HackOnLinces Platform** → Event management for participants, judges and mentors.
 
 ### `~/now`
