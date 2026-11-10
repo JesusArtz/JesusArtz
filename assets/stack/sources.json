@@ -1,0 +1,284 @@
+{
+  "icon_revisions": {
+    "tandpfun/skill-icons": "7f7e691e71aec64e8354bf697835e009d1ad80f8",
+    "devicons/devicon": "32fe1d3b3f36ad11f90ab94f7db59738139c2bf6"
+  },
+  "technologies": [
+    {
+      "technology": "Python",
+      "file": "python.svg",
+      "evidence": "original README; lumen-studio",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Python-Dark.svg"
+    },
+    {
+      "technology": "TypeScript",
+      "file": "typescript.svg",
+      "evidence": "portafolio-ts",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TypeScript.svg"
+    },
+    {
+      "technology": "JavaScript",
+      "file": "javascript.svg",
+      "evidence": "AppNotifications-BackEnd-v2",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg"
+    },
+    {
+      "technology": "C#",
+      "file": "csharp.svg",
+      "evidence": "LeagueUP; GenIA",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CS.svg"
+    },
+    {
+      "technology": "C++",
+      "file": "cpp.svg",
+      "evidence": "gargantua; ArduinoACMotors",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CPP.svg"
+    },
+    {
+      "technology": "Java",
+      "file": "java.svg",
+      "evidence": "original README",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg"
+    },
+    {
+      "technology": "HTML",
+      "file": "html.svg",
+      "evidence": "DomiTech; original projects",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg"
+    },
+    {
+      "technology": "CSS",
+      "file": "css.svg",
+      "evidence": "Port-2.0",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg"
+    },
+    {
+      "technology": "React",
+      "file": "react.svg",
+      "evidence": "lumen-studio; LeagueUP; GenIA",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg"
+    },
+    {
+      "technology": "Next.js",
+      "file": "next-js.svg",
+      "evidence": "portafolio-ts",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NextJS-Dark.svg"
+    },
+    {
+      "technology": "Vue",
+      "file": "vue.svg",
+      "evidence": "original README",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/VueJS-Dark.svg"
+    },
+    {
+      "technology": "Tailwind CSS",
+      "file": "tailwind-css.svg",
+      "evidence": "nutri; LeagueUP",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TailwindCSS-Dark.svg"
+    },
+    {
+      "technology": "Vite",
+      "file": "vite.svg",
+      "evidence": "lumen-studio; LeagueUP",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vite-Dark.svg"
+    },
+    {
+      "technology": "Three.js",
+      "file": "three-js.svg",
+      "evidence": "LeagueUP; GenIA",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ThreeJS-Dark.svg"
+    },
+    {
+      "technology": ".NET",
+      "file": "dotnet.svg",
+      "evidence": "LeagueUP; GenIA",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/DotNet.svg"
+    },
+    {
+      "technology": "Flask",
+      "file": "flask.svg",
+      "evidence": "be-kl; API-Proyecto",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Flask-Dark.svg"
+    },
+    {
+      "technology": "FastAPI",
+      "file": "fastapi.svg",
+      "evidence": "lumen-studio; Automatas-Project; DropAsset",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/FastAPI.svg"
+    },
+    {
+      "technology": "Django",
+      "file": "django.svg",
+      "evidence": "Django-Personal-Blog; original README",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Django.svg"
+    },
+    {
+      "technology": "Node.js",
+      "file": "node-js.svg",
+      "evidence": "AppNotifications-BackEnd-v2",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NodeJS-Dark.svg"
+    },
+    {
+      "technology": "Express",
+      "file": "express.svg",
+      "evidence": "AppNotifications-BackEnd-v2",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ExpressJS-Dark.svg"
+    },
+    {
+      "technology": "SQLAlchemy",
+      "file": "sqlalchemy.svg",
+      "evidence": "be-kl; DropAsset",
+      "source": "https://github.com/devicons/devicon/blob/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/sqlalchemy/sqlalchemy-original.svg"
+    },
+    {
+      "technology": "React Native",
+      "file": "react-native.svg",
+      "evidence": "Project-JP; Hackaton-FE",
+      "source": "https://github.com/devicons/devicon/blob/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/reactnative/reactnative-original.svg"
+    },
+    {
+      "technology": "Expo",
+      "file": "expo.svg",
+      "evidence": "Project-JP; Hackaton-FE",
+      "source": "https://github.com/devicons/devicon/blob/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/expo/expo-original.svg"
+    },
+    {
+      "technology": "Swift",
+      "file": "swift.svg",
+      "evidence": "NotchBook",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Swift.svg"
+    },
+    {
+      "technology": "Dart",
+      "file": "dart.svg",
+      "evidence": "iOS-App-Learn/mi_first_app",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Dart-Dark.svg"
+    },
+    {
+      "technology": "Flutter",
+      "file": "flutter.svg",
+      "evidence": "iOS-App-Learn/mi_first_app",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Flutter-Dark.svg"
+    },
+    {
+      "technology": "PostgreSQL",
+      "file": "postgresql.svg",
+      "evidence": "LeagueUP; GenIA; DropAsset",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/PostgreSQL-Dark.svg"
+    },
+    {
+      "technology": "MySQL",
+      "file": "mysql.svg",
+      "evidence": "AppNotifications-BackEnd-v2",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MySQL-Dark.svg"
+    },
+    {
+      "technology": "SQL Server",
+      "file": "sql-server.svg",
+      "evidence": "taller-db-project / MachineryRentalSystem",
+      "source": "https://github.com/devicons/devicon/blob/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    },
+    {
+      "technology": "SQLite",
+      "file": "sqlite.svg",
+      "evidence": "portafolio-ts sql.js; GenIA tests",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/SQLite.svg"
+    },
+    {
+      "technology": "Supabase",
+      "file": "supabase.svg",
+      "evidence": "portafolio-ts",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Supabase-Dark.svg"
+    },
+    {
+      "technology": "Docker",
+      "file": "docker.svg",
+      "evidence": "LeagueUP; GenIA; DropAsset; lumen-studio",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Docker.svg"
+    },
+    {
+      "technology": "Nginx",
+      "file": "nginx.svg",
+      "evidence": "GenIA",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Nginx.svg"
+    },
+    {
+      "technology": "Cloudflare",
+      "file": "cloudflare.svg",
+      "evidence": "LeagueUP R2; DropAsset tunnel",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Cloudflare-Dark.svg"
+    },
+    {
+      "technology": "Git",
+      "file": "git.svg",
+      "evidence": "original README",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Git.svg"
+    },
+    {
+      "technology": "GitHub",
+      "file": "github.svg",
+      "evidence": "original README",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Dark.svg"
+    },
+    {
+      "technology": "Actions",
+      "file": "actions.svg",
+      "evidence": "JesusArtz workflow",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GithubActions-Dark.svg"
+    },
+    {
+      "technology": "GitLab",
+      "file": "gitlab.svg",
+      "evidence": "original README",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GitLab-Dark.svg"
+    },
+    {
+      "technology": "Linux",
+      "file": "linux.svg",
+      "evidence": "original README",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Linux-Dark.svg"
+    },
+    {
+      "technology": "Pytest",
+      "file": "pytest.svg",
+      "evidence": "lumen-studio; Automatas-Project; montecarlo",
+      "source": "https://github.com/devicons/devicon/blob/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/pytest/pytest-original.svg"
+    },
+    {
+      "technology": "Vitest",
+      "file": "vitest.svg",
+      "evidence": "GenIA",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vitest-Dark.svg"
+    },
+    {
+      "technology": "Playwright",
+      "file": "playwright.svg",
+      "evidence": "GenIA; DropAsset",
+      "source": "https://github.com/devicons/devicon/blob/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/playwright/playwright-original.svg"
+    },
+    {
+      "technology": "NumPy",
+      "file": "numpy.svg",
+      "evidence": "montecarlo; DropAsset",
+      "source": "https://github.com/devicons/devicon/blob/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/numpy/numpy-original.svg"
+    },
+    {
+      "technology": "PyTorch",
+      "file": "pytorch.svg",
+      "evidence": "DropAsset runpod tools Dockerfile",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/PyTorch-Dark.svg"
+    },
+    {
+      "technology": "Arduino",
+      "file": "arduino.svg",
+      "evidence": "ArduinoACMotors; BT-ProyectoArduino",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Arduino.svg"
+    },
+    {
+      "technology": "CMake",
+      "file": "cmake.svg",
+      "evidence": "gargantua",
+      "source": "https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CMake-Dark.svg"
+    }
+  ]
+}
