@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="440" viewBox="0 0 640 440" role="img" aria-label="JesusArtz developer profile">
+<rect width="640" height="440" rx="10" fill="#161b22"/>
+<g font-family="monospace" font-size="15" fill="#addaf7">
+<text x="25" y="40" fill="#f0883e" font-size="21" font-weight="bold">Jesus / JesusArtz</text>
+<path d="M25 63H615" stroke="#30363d"/>
+<text x="25" y="96"><tspan fill="#f0883e">Role</tspan><tspan fill="#8b949e"> ........ </tspan>Full Stack Developer</text>
+<text x="25" y="123"><tspan fill="#f0883e">Builds</tspan><tspan fill="#8b949e"> ...... </tspan>Scalable systems &amp; useful tech</text>
+<text x="25" y="150"><tspan fill="#f0883e">Off-screen</tspan><tspan fill="#8b949e"> .. </tspan>Referee in training</text>
+<text x="25" y="194"><tspan fill="#f0883e">Languages</tspan><tspan fill="#8b949e"> ... </tspan>JS, TS, Python, C#, Java</text>
+<text x="25" y="221"><tspan fill="#f0883e">Frontend</tspan><tspan fill="#8b949e"> .... </tspan>React, Vue</text>
+<text x="25" y="248"><tspan fill="#f0883e">Backend</tspan><tspan fill="#8b949e"> ..... </tspan>.NET, Django, Flask, FastAPI</text>
+<text x="25" y="275"><tspan fill="#f0883e">Tools</tspan><tspan fill="#8b949e"> ....... </tspan>Git, Docker, GitLab, Linux</text>
+<text x="25" y="319"><tspan fill="#f0883e">Focus</tspan><tspan fill="#8b949e"> ....... </tspan>Backend architecture &amp; API security</text>
+<text x="25" y="346"><tspan fill="#f0883e">Community</tspan><tspan fill="#8b949e"> ... </tspan>MexicoDev</text>
+<text x="25" y="373"><tspan fill="#f0883e">Web</tspan><tspan fill="#8b949e"> ......... </tspan>yisuuus.dev</text>
+<text x="25" y="414" fill="#3fb950">❯ <tspan fill="#8b949e">Always building something useful.</tspan><tspan fill="#f0883e"> ▍</tspan></text>
+</g></svg>

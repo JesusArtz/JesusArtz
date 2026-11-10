@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="72" viewBox="0 0 960 72" role="img" aria-label="jesus@github: whoami">
+<rect x=".5" y=".5" width="959" height="71" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="25" cy="36" r="5" fill="#f0883e"/><circle cx="44" cy="36" r="5" fill="#e3b341"/><circle cx="63" cy="36" r="5" fill="#3fb950"/>
+<text x="96" y="42" font-family="monospace" font-size="16" fill="#c9d1d9"><tspan fill="#f0883e">jesus@github</tspan><tspan fill="#8b949e">:~ $ </tspan>whoami<tspan fill="#f0883e"> ▍</tspan></text>
+</svg>

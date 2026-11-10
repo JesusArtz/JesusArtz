@@ -1,75 +1,59 @@
-# 👋 Hi, I'm Jesus
+<p align="center">
+  <img src="assets/terminal-header.svg" width="100%" alt="jesus@github — whoami" />
+</p>
 
-💻 Full Stack Developer  
-🚀 Passionate about building scalable systems and useful tech  
-⚽ Referee in training
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="assets/portrait.png" width="300" alt="ASCII-style portrait of Jesus in his referee jacket" />
+    </td>
+    <td width="65%" valign="middle">
+      <img src="assets/profile.svg" width="620" alt="Jesus / JesusArtz. Full Stack Developer and referee in training. JavaScript, TypeScript, Python, C# and Java. React, Vue, .NET, Django, Flask and FastAPI. Focused on backend architecture, API security and MexicoDev." />
+    </td>
+  </tr>
+</table>
 
----
+<p align="center">
+  <a href="https://yisuuus.dev/"><img src="assets/portfolio.svg" width="210" alt="Visit my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jesusartz/"><img src="assets/linkedin.svg" width="210" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/JesusArtz?tab=repositories"><img src="assets/repositories.svg" width="210" alt="Explore my repositories" /></a>
+</p>
 
-## 📊 GitHub Stats
+### `~/projects`
 
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JesusArtz&theme=blueberry-duo" alt="GitHub Streak" /></a>
-</div>
+**LeagueUP** → A management system for sports leagues.<br />
+**HackOnLinces Platform** → Event management for participants, judges and mentors.
 
----
+### `~/now`
 
-## 🧠 Tech Stack
+```text
+> Building better backend architecture with .NET.
+> Working on API security: rate limiting, authentication and scaling.
+> Connecting with developers through MexicoDev.
+```
 
-<div align="center">
+<details>
+<summary><b>~/stack — tools of the trade</b></summary>
 
-### 💡 Languages
-<img src="https://skillicons.dev/icons?i=js,python,cs,ts,java" />
+<br />
 
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,vue" />
+| | Technologies |
+| :--- | :--- |
+| Languages | JavaScript · TypeScript · Python · C# · Java |
+| Frontend | React · Vue |
+| Backend | .NET · Django · Flask · FastAPI |
+| Tools | Git · GitHub · GitLab · Docker · Linux |
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,dotnet" />
+</details>
 
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,gitlab,linux" />
+### `~/activity`
 
-</div>
+<p align="center">
+  <a href="https://github.com/JesusArtz"><img src="https://github-readme-streak-stats.herokuapp.com?user=JesusArtz&amp;theme=dark&amp;background=161B22&amp;border=30363D&amp;stroke=30363D&amp;ring=F0883E&amp;fire=F0883E&amp;currStreakLabel=F0883E&amp;sideLabels=ADDAF7&amp;dates=8B949E" alt="JesusArtz's GitHub contribution streak" /></a>
+</p>
 
----
-
-## 🚀 Featured Projects
-
-🔹 **HackOnLinces Platform**  
-> Full management system for events (participants, judges, mentors)  
-
-🔹 **LeagueUP**  
-> Full management system for sport leagues.  
-
----
-
-## 🧩 Currently Working On
-
-- 📌 Backend architecture improvements (.NET)
-- 📌 API security (rate limiting, auth, scaling)
-- 📌 Dev communities: MexicoDev 🐱
-
----
-
-## 🌐 Connect with me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/JesusArtz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jesusartz/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome)](https://yisuuus.dev/)
-
-</div>
-
----
-
-## ⚡ Fun Fact
-
-I mix code, football discipline, and systems thinking to build solutions that actually work in the real world.
-
----
-
-<div align="center">
-<a href="https://mexicodev.org/" target="_blank"><img src="https://github.com/JesusArtz/JesusArtz/blob/main/mexicodev.png?raw=true" width="19%" height="19%"></a>
-</div>
+<p align="center">
+  <a href="https://mexicodev.org/"><img src="mexicodev.png" width="90" alt="MexicoDev community" /></a>
+  <br />
+  <sub>Code, football discipline, and systems thinking.</sub>
+</p>

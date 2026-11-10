@@ -1,0 +1,5 @@
+Tool: built-in image_gen (imagegen skill)
+Source: user-provided portrait photograph.
+Output: portrait.png
+
+Use case: style-transfer. Asset type: square portrait for a GitHub terminal profile README. Edit the supplied photograph of the man: preserve his recognizable face, short dark hair, expression and black sports jacket, crop to head and shoulders. Render him as sophisticated dense ASCII stipple / retro computer halftone pixel art, using tiny monospaced character-like marks, teal highlights and warm pale cream detail on an entirely flat solid #161b22 background. High facial likeness, clear silhouette, centered head and shoulders fills 85% of square. No original outdoor background, no frame, no text, no labels, no lettering or visible logos. Restrained terminal aesthetic, crisp readable face even at 300px.
